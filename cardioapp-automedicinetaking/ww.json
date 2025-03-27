@@ -1,0 +1,43 @@
+{
+    "data": {
+        "additional_parameters": [],
+        "app_id": "P-JV2nVIRUtgyPO5xRNeYll2mT4F5QG4bS",
+        "environment_id": "dcd76a3d-c71b-4998-9e5c-ab1e783264d0",
+        "label_ru": "Автоматический добавления лекарств",
+        "label_uz": "Автоматический добавления лекарств",
+        "method": "CREATE",
+        "object_data": {
+            "cleints_id": "e94effc5-0c07-4f1b-a65a-ecbc29fe9205",
+            "company_service_environment_id": "dcd76a3d-c71b-4998-9e5c-ab1e783264d0",
+            "company_service_project_id": "a4dc1f1c-d20f-4c1a-abf5-b819076604bc",
+            "current_amount": 66,
+            "description": [
+                "before_food"
+            ],
+            "dosage": 12,
+            "frequency": [
+                "specific_days"
+            ],
+            "guid": "2dacb2b5-c2c0-4f46-9b52-19333c14fa7d",
+            "invite": false,
+            "is_from_patient": false,
+            "json_body": "{\"hours_of_day\":[\"00:36:00\"]}",
+            "medicine_name": "",
+            "multi": [],
+            "naznachenie_id": "df232d03-3f5a-40e2-a09d-66d5af0accbf",
+            "number": 1,
+            "preparati_id": "ae4ed744-9272-4576-9bc1-032765bad212",
+            "unit_of_measure_id": "ce083fb6-94cd-4d2d-81f3-c89f28643925",
+            "week_days": [
+                "2"
+            ]
+        },
+        "object_data_before_update": null,
+        "object_ids": [
+            "2dacb2b5-c2c0-4f46-9b52-19333c14fa7d"
+        ],
+        "project_id": "a4dc1f1c-d20f-4c1a-abf5-b819076604bc",
+        "table_slug": "medicine_taking",
+        "user_id": "72cc2ea7-88eb-4dfc-838d-b99d6e354be6"
+    }
+}

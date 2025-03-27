@@ -1,0 +1,75 @@
+{
+    "data": {
+        "json_body": {
+            "type": "day",
+            "dayData": [
+                "14:33:14",
+                "14:34:14"
+            ],
+            "customData": {
+                "cycle_name": "day",
+                "cycle_count": 1
+            },
+            "beforeAfterFood": "after",
+            "start_date": "2023-09-09",
+            "end_date": "2023-09-09",
+            "days_of_week": [0, 1, 2, 3, 4, 5, 6],
+            "hours_of_day": [
+                "14:33:14",
+                "14:34:14"
+            ],
+            "current_amount": 1,
+            "without_break": false
+        },
+        "naznachenie_id": "eab01434-333c-4e6f-95c1-cf582f8fbae8",
+        "medicine_time": "",
+        "guid": "",
+        "method": "CREATE",
+        "app_id": "P-JV2nVIRUtgyPO5xRNeYll2mT4F5QG4bS",
+        "cleints_id": "9eba0f9e-bc9d-4632-bc2a-b9b3cf18d186",
+        "preparati_id": "d9f37b86-f792-47fa-bf5c-9b68c8bb0e1e"
+    },
+    "responsea": {
+        "amount_medicine": 0,
+        "amount_medicine_take": 0,
+        "cardioapp-deletepatientmedicine_disable": false,
+        "cleints_id": "",
+        "comment": "",
+        "created_by_patient": false,
+        "current_amount": 12,
+        "description": [
+            "after_food"
+        ],
+        "dosage": 1,
+        "frequency": [
+            "several_times_day"
+        ],
+        "guid": "67a90e92-39c8-4ec1-959d-63116f155153",
+        "hours_of_the_day": "",
+        "isFromPatient": false,
+        "json_body": "",
+        "medicine_name": "",
+        "naznachenie_id": "3ada5dae-4d90-492f-b966-5dbd4b921bee",
+        "number": 1,
+        "preparati_id": "e92e0561-a2a1-4db6-bc25-37e179aab5d0",
+        "week_days": [
+            "2",
+            "3"
+        ]
+    },
+"response": {
+    "beforeAfterFood": "after",
+    "cleints_id": "9eba0f9e-bc9d-4632-bc2a-b9b3cf18d186",
+    "count": null,
+    "default_number": 1,
+    "guid": "1ec36ef4-45b9-4267-ae5f-62ec1a4723e6",
+    "isFromPatient": false,
+    "is_take": false,
+    "medicine_taking_id": "e1146bce-5d76-4e45-9e31-cc6c9679be75",
+    "naznachenie_id": "eab01434-333c-4e6f-95c1-cf582f8fbae8",
+    "preparat_name": "",
+    "preparati_id": "d9f37b86-f792-47fa-bf5c-9b68c8bb0e1e",
+    "time_take": "2023-09-09T09:33:14.000Z"
+}
+}
+
